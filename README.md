@@ -18,8 +18,15 @@ ordem N: L(max) = N(N-1)/2
 
 Grafo direcionado completo: N(N-1)
 
-5. Calculate the degree of the nodes for both node types in the bipartite adjacency matrix from the figure below. Find the isolated node(s).
+4. What are isomorphic graphs? Draw an example.
 
-![adjacency matrix](./img/matrix01.png)
+Dizemos que dois grafos G e H são isomorfos se existir uma correspondência biunívoca entre os vértices de G e os vértices de H que preserve a relação de adjacência entre vértices e arestas.
+
+Exemplos:
+VG = {1,2,3,4} e AG = {(1,2),(3,4)}
+VH = {a,b,c,d} e AH = {(a,d),(b,c)}
+
+
+
 
 
