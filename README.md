@@ -1,4 +1,5 @@
 1. Define:
+
     (a) Subgraph: Um subgrafo de um grafo não-dirigido não é necessariamente não-dirigido.  Portanto, um subgrafo de um grafo não-dirigido não é               necessariamente não-dirigido. Portanto, a seguinte definição não é redundante. 
 
     (b) Bipartite graph: Grafo cujos nós podem ser divididos em dois conjuntos disjuntos U e V, de modo
